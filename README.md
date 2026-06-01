@@ -1,6 +1,6 @@
-# Portfólio de Testes Manuais – Automation Pratice
+# Portfólio de Testes Manuais – Automation Practice
 
-Portfólio de QA Manual desenvolvido a partir do site Automation Pratice, contendo um conjunto completo de artefatos de testes que simulam um projeto real. O objetivo é demonstrar minha abordagem prática para análise, planejamento e execução de testes manuais.
+Portfólio de QA Manual desenvolvido a partir do site Automation Practice, contendo um conjunto completo de artefatos de testes que simulam um projeto real. O objetivo é demonstrar minha abordagem prática para análise, planejamento e execução de testes manuais.
 
 O objetivo é demonstrar domínio de:
 
