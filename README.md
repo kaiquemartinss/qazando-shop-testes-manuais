@@ -29,7 +29,7 @@ Este projeto tem como objetivo demonstrar domínio em **testes manuais**, cobrin
 ## 🗂️ Estrutura do Repositório
 
 ```
-automation-practice/
+qazando-shop-testes-manuais/
 ├── 01-planejamento-de-testes/
 │   ├── plano-de-teste.md         # Plano de testes com escopo e estratégia
 │   └── cenarios-de-teste.md      # Cenários de teste mapeados por funcionalidade
